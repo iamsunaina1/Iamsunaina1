@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://github.com/iamsunaina1/iamsunaina1/blob/main/assets/full-asset.gif?raw=true" width="100%" alt="MasterHead asset"/>
-</p>
-
-
+![MasterHead](https://github.com/iamsunaina1/iamsunaina1/blob/main/assets.gif?raw=true)
 
 
 <h1 align="center">Hi 👋, I'm Sunaina</h1>
