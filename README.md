@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iamsunaina1/iamsunaina1/blob/main/assets.gif?raw=true" width="100%" alt="MasterHead assets"/>
+  <img src="https://github.com/iamsunaina1/iamsunaina1/blob/main/assets.gif?raw=true" width="50%" alt="MasterHead assets"/>
 </p>
 
 
