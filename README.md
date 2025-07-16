@@ -1,11 +1,11 @@
-<!-- MasterHead Banner (Verified Pinterest-style GIF) -->
-[![MasterHead](https://i.pinimg.com/originals/c9/93/b3/c993b3b0d8287cf00e9b0e35d4c74706.gif)](https://github.com/iamsunaina1)
+<!-- ✅ MasterHead Banner (Animated from Dribbble) -->
+[![MasterHead](https://cdn.dribbble.com/userupload/42048428/file/original-5556a4747a42101e13106b2bc755eb96.gif)](https://github.com/iamsunaina1)
 
 <h1 align="center">Hi 👋, I'm Sunaina</h1>
 <h3 align="center">🎓 Aspiring Data Analyst | 📊 Passionate about turning data into insights</h3>
 
-<!-- Right-side GIF (Coding Girl - verified public link) -->
-<img align="right" alt="Coding Girl" width="300" src="https://media.tenor.com/7G4Z-Nl0D1sAAAAC/coding-girl.gif" />
+<!-- ✅ Right-side Coding Girl GIF -->
+<img align="right" alt="Coding Girl" width="300" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=iamsunaina1&label=Profile%20views&color=0e75b6&style=flat" alt="iamsunaina1" />
@@ -39,3 +39,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsunaina1" alt="GitHub Streak" />
 </p>
+
+
