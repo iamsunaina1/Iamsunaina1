@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sunaina</h1>
-<h3 align="center">🎓 Aspiring Data Analyst | 📊 Passionate about turning data into insights</h3>
+<h3 align="center">🎓 Aspiring Data Analyst |  Passionate about turning data into insights</h3>
 
 <!-- ✅ Right-side Coding Girl GIF -->
 <img align="right" alt="Coding Girl" width="300" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" />
