@@ -1,5 +1,5 @@
-<!-- ✅ MasterHead Banner (Now hosted on Imgur and GitHub-compatible) -->
-[![MasterHead](https://i.imgur.com/oAHxHHE.gif)](https://github.com/iamsunaina1)
+![MasterHead](https://github.com/iamsunaina1/iamsunaina1/blob/main/assets/banner.gif?raw=true)
+
 
 <h1 align="center">Hi 👋, I'm Sunaina</h1>
 <h3 align="center">🎓 Aspiring Data Analyst | 📊 Passionate about turning data into insights</h3>
