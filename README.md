@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/iamsunaina1/iamsunaina1/blob/main/assets/banner.gif?raw=true)
+![MasterHead](https://github.com/iamsunaina1/iamsunaina1/blob/main/assets.gif?raw=true)
 
 
 <h1 align="center">Hi 👋, I'm Sunaina</h1>
