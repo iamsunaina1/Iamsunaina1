@@ -65,8 +65,8 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=iamsunaina1&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<img src="https://streak-stats.demolab.com?user=iamsunaina1&theme=dark&hide_border=true" alt="GitHub Streak" />
-<p>
-
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=iamsunaina1&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
