@@ -71,15 +71,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamsunaina1&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsunaina1" alt="GitHub Streak" />
-</p>
-
----
 
 <h3 align="center"> Most Used Languages</h3>
 
