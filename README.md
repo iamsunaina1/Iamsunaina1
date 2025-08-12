@@ -15,11 +15,11 @@
 </p>
 
   
-- 🌱 I’m currently learning            ****Machine Learning****    
+- 🌱 I’m currently learning            ***Machine Learning***    
 - 👨‍💻 All of my projects are available at [GitHub Portfolio](https://github.com/iamsunaina1)  
 - 💬 Ask me about                      ***Excel, SQL, Power BI, Tableau, Python (Pandas)***  
 - 📫 How to reach me:                  **zsunaina1@gmail.com**  
-- 📄 Know about my experiences:        [My Resume](https://drive.google.com/your-resume-link)  
+- 📄  View my resume:        [My Resume](https://drive.google.com/your-resume-link)  
 - ⚡ Fun fact:                         ***I love turning messy data into clean, insightful dashboards!***
 
 ---
