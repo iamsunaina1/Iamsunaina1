@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=iamsunaina1&label=Profile%20views&color=0e75b6&style=flat" alt="iamsunaina1" />
 </p>
 
-- 🔭 I’m currently working on [Attrition Analysis Dashboard](https://github.com/iamsunaina1/Employee-attrition-analysis-Tableau)  
+  
 - 🌱 I’m currently learning            ***Machine Learning***    
 - 👨‍💻 All of my projects are available at [GitHub Portfolio](https://github.com/iamsunaina1)  
 - 💬 Ask me about                      ***Excel, SQL, Power BI, Tableau, Python (Pandas)***  
