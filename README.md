@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning            ***Machine Learning***    
 - 👨‍💻 All of my projects are available at [GitHub Portfolio](https://github.com/iamsunaina1)  
 - 💬 Ask me about                      ***Excel, SQL, Power BI, Tableau, Python (Pandas)***  
-- 📫 How to reach me:                  [LinkedIn](https://www.linkedin.com/in/sunaina-p-a-9704ba372/)  
+- 📫 How to reach me:                  [LinkedIn](https://www.linkedin.com/in/sunaina-pa/)  
 - 📄  View my resume:        [My Resume](https://drive.google.com/file/d/1-_I79Iw_XNNGkumePDWoCgsa-nUulJ4C/view?usp=drive_link)
 )  
 - ⚡ Fun fact:                         ***I love turning messy data into clean, insightful dashboards!***
